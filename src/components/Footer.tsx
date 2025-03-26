@@ -17,7 +17,7 @@ const Footer = () => {
             <p className="mt-4">
               Dra. Kamilla Meireles
               <br />
-              OAB/ms 24.643
+              OAB/MS 24.643
             </p>
           </div>
           
@@ -51,7 +51,7 @@ const Footer = () => {
               <a href="https://www.facebook.com/share/18dzX4VmJA/" className="hover:text-gray-300">
                 <Facebook className="h-6 w-6" />
               </a>
-              <a href="#https://www.instagram.com/kamillameireles.adv/" className="hover:text-gray-300">
+              <a href="https://www.instagram.com/kamillameireles.adv/" className="hover:text-gray-300">
                 <Instagram className="h-6 w-6" />
               </a>
               <a href="https://www.linkedin.com/in/kamilla-meireles-garcia-778812191/" className="hover:text-gray-300">
