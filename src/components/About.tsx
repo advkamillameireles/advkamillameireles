@@ -14,13 +14,14 @@ const About = () => {
           </div>
           <div>
             <h2 className="text-3xl font-roboto font-bold text-primary mb-6">
-              Dra. Kamilla Meireles
+              Kamilla Meireles
             </h2>
             <p className="text-gray-700 mb-6">
-              Com mais de 15 anos de experiência em Direito Previdenciário, 
-              dedicamos nossa prática à defesa dos direitos previdenciários 
-              dos nossos clientes, oferecendo soluções personalizadas e 
-              eficientes para cada caso.
+              Seja bem-vindo(a) ao nosso site! Aqui você encontra uma advocacia especializada e conteúdo de qualidade que vão te auxiliar na busca dos seus direitos. 
+O escritório Kamilla Meireles Advocacia é especializado nas áreas previdenciária, ambiental e cível.
+Focamos em poucas áreas de atuação para poder oferecer um serviço altamente qualificado.
+Para nós, a satisfação do cliente com o serviço prestado é a maior conquista. Portanto, priorizamos a ética em nossas relações e buscamos constantemente uma prestação de serviço de qualidade.
+Entre em contato pelo WhatsApp para tirar dúvidas e marcar uma reunião presencial ou 100% online.
             </p>
             <ul className="space-y-3">
               <li className="flex items-center text-gray-700">
