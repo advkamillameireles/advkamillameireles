@@ -31,7 +31,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center">
               <Scale className="h-8 w-8 text-primary" />
               <span className="ml-2 text-xl font-roboto font-bold text-primary">
-                Adovocacia Kamilla Meireles
+                Advocacia Kamilla Meireles
               </span>
             </Link>
           </div>
